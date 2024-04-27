@@ -3,7 +3,7 @@
 /// For chat_app_ui
 const List profile = [
   {
-    "name": "VAN Sopheamen",
+    "name": "Alex 凌",
     "img":
     "https://yt3.ggpht.com/ytc/AKedOLTHDJOiJgIkQBX7zkuGEXTY0SgIdiikKIAhXmsttw=s600-c-k-c0x00ffffff-no-rj-rp-mo"
   }

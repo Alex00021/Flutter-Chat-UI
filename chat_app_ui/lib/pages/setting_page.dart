@@ -78,7 +78,7 @@ class _SettingPageState extends State<SettingPage> {
             height: 2,
           ),
           Text(
-            "+855 10 101 101 - @sopheamen",
+            "+AlexLingfan@163.com",
             style: TextStyle(
                 fontSize: 18,
                 color: white.withOpacity(0.5),
